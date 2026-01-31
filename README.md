@@ -7,6 +7,7 @@ This repository contains Playwright automation tests for the Singlish to Sinhala
 
 ## Installation
 npm install
+npx playwright install
 
 ## Running Tests
 npx playwright test
